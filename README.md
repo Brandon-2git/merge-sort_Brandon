@@ -1,6 +1,10 @@
 # Days 3-5: Merge Sort
 #hola este es un mensaje nuevo
+<<<<<<< HEAD
 #hola este es un mensaje 2
+=======
+#y este es un mensaje nuevesito
+>>>>>>> 73626205595795e6b130f69ad061cc7c102f12a7
 ## Learning Goals
 
 - Define the merge sort algorithm and its advantages/disadvantages
